@@ -6,6 +6,7 @@ To find high-impact PDFs (2022–2026), prioritize these journals identified as 
 2. **International Journal of Information Management** (Top-tier impact factor).
 3. **Sustainability** (Focuses on green technology and carbon-free strategies).
 4. **Journal of Cleaner Production** (Foundation for sustainable supply chain theory).
+5. **research.google** (Awesome for researchers providing [dataset search tool](https://datasetsearch.research.google.com/) and other [research tools & resources](https://research.google/resources/)
 
 ## Pro Search Tricks
 - **Narrow the Topic:** Avoid broad titles like "Blockchain Pollution." Use specific goals like 
