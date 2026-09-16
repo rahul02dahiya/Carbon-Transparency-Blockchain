@@ -3,8 +3,7 @@
 **Title:** Blockchain-IoT Integration for Carbon Emission Tracking: A Framework for Real-World Validation using Java Middleware
 **Candidate Name:** Rahul Dahiya
 **Department:** Computer Science & Engineering
-**Institution:** [Insert University/Institute Name]
-**Academic Year:** 2026
+**Institution:** [Shri Ram Institute of Science and Technology]
 
 ---
 
@@ -178,44 +177,6 @@ This M.Tech research expects to deliver a fully functional, validated prototype 
 * **Verification Latency:** The processing time from initial raw physical sensor reading to transaction confirmation on the blockchain is targeted to be **under 15 seconds**, representing an **87% reduction** in compliance verification latency [3].
 * **Double Counting Mitigation:** Through the Solidity "mint-and-burn" contract mechanics, the rate of credit duplication or double counting will be reduced by **92%** [9].
 * **System Energy Efficiency:** By utilizing an EVM-compatible Proof-of-Stake (PoS) testnet instead of energy-intensive Proof-of-Work (PoW), the operational carbon footprint of the blockchain infrastructure itself will be reduced to **18% of conventional systems** [5, 6].
-
----
-
-## 9. Research Plan & Milestones
-
-The proposed M.Tech thesis timeline is structured over an intensive 12-month schedule, organized into six chronological phases:
-
-```
-+-------------------------------------------------------------------------+
-| Phase 1: Literature Review & Requirement Formulation (Months 1-2)       |
-| -> Comprehensive analysis of gaps [2] and standard API definitions [11].|
-+------------------------------------+------------------------------------+
-                                     |
-+------------------------------------v------------------------------------+
-| Phase 2: Core Algorithm & Smart Contract Design (Months 3-4)            |
-| -> Writing CarbonCreditManager.sol and configuring local testnets [3].  |
-+------------------------------------+------------------------------------+
-                                     |
-+------------------------------------v------------------------------------+
-| Phase 3: Java Middleware Development & Web3j Integration (Months 5-6)   |
-| -> Implementing anomaly filtering and Spring Boot REST controllers [11].|
-+------------------------------------+------------------------------------+
-                                     |
-+------------------------------------v------------------------------------+
-| Phase 4: Hardware Simulation & Data Ingestion (Months 7-8)              |
-| -> Connecting mock sensor streams with JSON/CSV data feeds [5, 11].     |
-+------------------------------------+------------------------------------+
-                                     |
-+------------------------------------v------------------------------------+
-| Phase 5: System Testing & Quantitative Performance Analysis (Months 9-10)|
-| -> Evaluating throughput (TPS), latency, and checking accuracy [3, 5].   |
-+------------------------------------+------------------------------------+
-                                     |
-+------------------------------------v------------------------------------+
-| Phase 6: Thesis Compilation & Paper Submission (Months 11-12)          |
-| -> Final report writing and paper submission to SCI/Scopus [1, 2, 11].  |
-+-------------------------------------------------------------------------+
-```
 
 ---
 
